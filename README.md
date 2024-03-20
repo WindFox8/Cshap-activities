@@ -13,3 +13,5 @@ This repository contains challenges made in Csharp designed to practice and impr
   4 - Given a string, find the length of the longest substring without repeating characters. The string consists of English letters, numbers, digits, symbols and spaces.
 
   5 - Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+
+  6 - Given a string s, return the longest palindromic substring in s.
